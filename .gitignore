@@ -1,6 +1,9 @@
 bin/
 obj/
 data/
+dist/
+installer/payload/
+installer/*.sed
 *.user
 *.suo
 *.sqlite
