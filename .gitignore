@@ -1,0 +1,10 @@
+bin/
+obj/
+data/
+*.user
+*.suo
+*.sqlite
+*.db
+*.log
+*.tmp
+.vs/
